@@ -27,11 +27,14 @@
 
 >## ⚙️ 주요 기능
 
+<img src="https://github.com/user-attachments/assets/66583f4f-6516-4389-ae58-61ff67291e3c" width="330" height="437" />
+<img src="https://github.com/user-attachments/assets/389a4216-2960-4d88-b38f-ded19a2c12a8" width="330" height="437" />
+<img src="https://github.com/user-attachments/assets/211d5332-5c53-4943-acd6-75f64b6eeaf0" width="330" height="437" />
 
+- test
 
-![main](https://steemitimages.com/250x0//https://i.esdrop.com/d/zap37G3xKb.PNG) 
-![floating button](https://steemitimages.com/250x0//https://i.esdrop.com/d/lgMPtN0icG.PNG)
-![news](https://steemitimages.com/250x0//https://i.esdrop.com/d/oyig56O7pZ.PNG)
+<img src="https://github.com/user-attachments/assets/211d5332-5c53-4943-acd6-75f64b6eeaf0" width="350" height="464" />
+
 
 
 - 날씨API를 이용해 지역별로 날씨확인과 기온에 따른 기본적인 코디추천, 사용자들이 실제 무슨 코디를 했는지 DB에 저장하고 차트로 표현, 한줄코멘트를 플로팅버튼으로 간단하게 입력 가능하고 홈 화면에서 확인할 수 있게 했습니다.
