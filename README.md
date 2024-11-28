@@ -50,6 +50,30 @@
 
 <br>
 
+<img src="https://github.com/user-attachments/assets/ee14ffe1-804f-44c8-9a39-24bfbce7e54a" width="330" height="437" />
+
+<br>
+
+- GPS탭에서 강아지 위치 정보 확인
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/894709ae-f70f-423d-bc2e-1dbfba3b2e7f" width="330" height="437" />
+
+<br>
+
+- 주변 약국 탭에서 현재 위치에서 가까운 동물 약국 확인
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/90a1060b-26bc-4d22-abf8-a0fff4e1867a" width="330" height="437" />
+
+<br>
+
+- 날씨 탭에서 현재 날씨와 산책 추천 메시지 확인
+
+<br>
+
 
 
 
