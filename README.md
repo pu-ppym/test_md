@@ -27,21 +27,32 @@
 
 >## ⚙️ 주요 기능
 
+<img src="https://github.com/user-attachments/assets/41bc8f15-c8d9-411c-91aa-a10483e4c10a" width="330" height="437" />
 <img src="https://github.com/user-attachments/assets/66583f4f-6516-4389-ae58-61ff67291e3c" width="330" height="437" />
-<img src="https://github.com/user-attachments/assets/389a4216-2960-4d88-b38f-ded19a2c12a8" width="330" height="437" />
 <img src="https://github.com/user-attachments/assets/211d5332-5c53-4943-acd6-75f64b6eeaf0" width="330" height="437" />
 
-- test
+<br>
 
-<img src="https://github.com/user-attachments/assets/211d5332-5c53-4943-acd6-75f64b6eeaf0" width="350" height="464" />
+- 회원가입으로 회원정보 DB에 저장
+- 로그인 후 회원에 해당하는 강아지 정보가 DB에 존재하지 않을때 강아지 정보 입력
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/389a4216-2960-4d88-b38f-ded19a2c12a8" width="330" height="437" />
+<img src="https://github.com/user-attachments/assets/55da36d8-3f11-4726-b6aa-986389c922cf" width="330" height="437" />
+<img src="https://github.com/user-attachments/assets/62ce5e85-dcb6-49b1-aee6-f970a1d2c9ac" width="330" height="437" />
+
+<br>
+
+- ET-BOARD 에서 측정한 센서값을 서버로 전송, 메인 화면에서 심박수, 체온, 걸음수 확인
+- 설정에서 로그아웃, 프로필 변경, 정보 수정
+- 프로필 변경 기능으로 강아지 정보를 여러마리 등록, 다른 프로필로 변경
+
+<br>
 
 
 
-- 날씨API를 이용해 지역별로 날씨확인과 기온에 따른 기본적인 코디추천, 사용자들이 실제 무슨 코디를 했는지 DB에 저장하고 차트로 표현, 한줄코멘트를 플로팅버튼으로 간단하게 입력 가능하고 홈 화면에서 확인할 수 있게 했습니다.
 
-- RSS를 활용해 날씨 뉴스를 확인할 수 있게 했습니다.
-
-<br/>
 
 > <br/>배운점<br/><br/>
 
