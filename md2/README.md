@@ -1,5 +1,7 @@
 # [**똑똑**(2024.09.05 ~ 2024.11.07)](https://github.com/pu-ppym/dogcare)
 
+<img src="https://github.com/user-attachments/assets/7b98b4c0-1037-497f-b9e1-3a8134942cf4" width="500" height="280" />
+
 <br>
 노인을 위한 스마트 외출도우미 똑똑
 <br/><br/>
@@ -26,16 +28,45 @@
 
 >## ⚙️ 주요 기능
 
-<img src="https://github.com/user-attachments/assets/41bc8f15-c8d9-411c-91aa-a10483e4c10a" width="330" height="437" />
-<img src="https://github.com/user-attachments/assets/66583f4f-6516-4389-ae58-61ff67291e3c" width="330" height="437" />
-<img src="https://github.com/user-attachments/assets/211d5332-5c53-4943-acd6-75f64b6eeaf0" width="330" height="437" />
+
+<img src="https://github.com/user-attachments/assets/cab6dcc2-d7cb-4912-bb95-60c963efdc85" width="450" height="253" />
 
 <br>
 
 - 회원가입으로 회원정보 DB에 저장
-- 로그인 후 회원에 해당하는 강아지 정보가 DB에 존재하지 않을때 강아지 정보 입력
+<br>
+
+<img src="https://github.com/user-attachments/assets/6366f18f-fe59-40d6-8c84-28fb6ba21818" width="450" height="253" />
 
 <br>
+
+- 메인 화면, 날씨 정보, 시간, 버스 도착 정보, 긴급전화, 할일 등록, 복용약 등록
+<br>
+
+<img src="https://github.com/user-attachments/assets/61da71fc-7c4f-4035-aee7-e6adce09cb59" width="450" height="253" />
+
+<br>
+
+- 외출 시 필요한 준비물 등록
+
+<br>
+<img src="https://github.com/user-attachments/assets/3f8d21c8-b3bd-4406-a1bc-b83233431a04" width="450" height="253" />
+
+<br>
+
+- 외출 시 복용약 DB에 등록
+
+<br>
+
+
+<img src="" width="330" height="437" />
+<br>
+
+- 회원가입으로 회원정보 DB에 저장
+
+<br>
+
+
 
 <img src="https://github.com/user-attachments/assets/389a4216-2960-4d88-b38f-ded19a2c12a8" width="330" height="437" />
 <img src="https://github.com/user-attachments/assets/55da36d8-3f11-4726-b6aa-986389c922cf" width="330" height="437" />
@@ -49,7 +80,7 @@
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/ee14ffe1-804f-44c8-9a39-24bfbce7e54a" width="330" height="437" />
+
 
 <br>
 
