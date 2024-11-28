@@ -1,28 +1,31 @@
-## [**건강하개**(2024.10.02~ 2024.11.27)](https://github.com/pu-ppym/dogcare)
+# [**건강하개**(2024.10.14 ~ 2024.11.27)](https://github.com/pu-ppym/dogcare)
 
-강아지 건강을 모니터링하고 맞춤형 관리 솔루션을 제공하는 반려동물 케어 시스템
+<br>
+강아지의 건강을 모니터링하는 반려동물 케어 시스템
 <br/><br/>
 
-> <br/>개발 환경<br/><br/>
+>### ⚙️ 프로젝트 목적
+강아지의 건강 데이터를 실시간으로 확인하고 강아지와 함께하는 일상에 도움을 주는 다양한 기능 제공
 
-운영체제: Windows(개발 환경), Ubuntu(서버 환경)
-개발 도구: Node.js, MySQL Workbench, Visual Studio Code
-언어: JavaScript, SQL, C++, HTML, CSS
+<br>
+
+>### ⚙️ 멤버 구성
+- 김지오 : 팀장, 백엔드, 서버
+- 박유진 : 프론트엔드
+- 이정현 : IoT 센서
+
+>### ⚙️ 개발 환경
+
+- **운영체제**: Windows(개발 환경), Ubuntu(서버 환경)
+- **개발 도구**: Node.js, MySQL Workbench, Visual Studio Code
+- **언어**: JavaScript, SQL, C++, HTML, CSS
+- **데이터베이스**: MySQL
+- **클라우드 서비스**: AWS EC2(서버 호스팅)
+- **버전 관리**: Git, GitHub
 
 
-> <br/>개발 기획<br/><br/>
+>### ⚙️ 주요 기능
 
-- 기온 변화에 따라 기본적인 코디 추천
-
-
-- 실 사용자들의 투표로 정확도 높은 코디 추천
-
-- sns 기능 제공을 통한 정보 교류
-
-
-<br/>
-
-> <br/>기능<br/><br/>
 
 
 ![main](https://steemitimages.com/250x0//https://i.esdrop.com/d/zap37G3xKb.PNG) 
