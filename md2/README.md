@@ -9,15 +9,15 @@
 
 
 >### ⚙️ 멤버 구성
-- 김지오 : 백엔드(DB, 서버), IoT
-- 류시은 : 백엔드
+- 김지오 : 프론트엔드, 백엔드(DB, 서버, 기능 개발), IoT
+- 류시은 : 백엔드(기능 개발)
 
 
 >### ⚙️ 개발 환경
 
 - **운영체제**: Windows(개발 환경), Ubuntu(서버 환경)
-- **개발 도구**: Node.js, MySQL Workbench, Visual Studio Code
-- **언어**: JavaScript, SQL, C++, HTML, CSS
+- **개발 도구**: Android Studio, Node.js, MySQL Workbench, Visual Studio Code, Arduino IDE
+- **언어**: Java, JavaScript, SQL, C++
 - **데이터베이스**: MySQL
 - **클라우드 서비스**: AWS EC2(서버 호스팅)
 - **버전 관리**: Git, GitHub
