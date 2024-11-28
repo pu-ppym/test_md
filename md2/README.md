@@ -54,23 +54,45 @@
 
 <br>
 
-- 외출 시 복용약 DB에 등록
+- 외출 시 확인할 복용약 DB에 저장
 
 <br>
 
 
-<img src="" width="330" height="437" />
+<img src="https://github.com/user-attachments/assets/93c657c2-f613-4d38-b4aa-f9bc490c42fb" width="450" height="253" />
 <br>
 
-- 회원가입으로 회원정보 DB에 저장
+- 할일 DB에 저장
 
 <br>
 
+<img src="https://github.com/user-attachments/assets/b595f40d-8c7d-460e-a762-0bb997634b37" width="450" height="253" />
+<br>
+
+- 회원 정보에 등록된 긴급전화로 연락
+
+<br>
+<img src="https://github.com/user-attachments/assets/bb9c6740-0f00-4cc4-b83f-7316fd8873ca" width="450" height="253" />
+<br>
+
+-ㅅㄷㄴ
+
+
+---------------------------
+
+<img src="(https://github.com/user-attachments/assets/bb9c6740-0f00-4cc4-b83f-7316fd8873ca" width="450" height="253" />
+<br>
 
 
 <img src="https://github.com/user-attachments/assets/389a4216-2960-4d88-b38f-ded19a2c12a8" width="330" height="437" />
 <img src="https://github.com/user-attachments/assets/55da36d8-3f11-4726-b6aa-986389c922cf" width="330" height="437" />
 <img src="https://github.com/user-attachments/assets/62ce5e85-dcb6-49b1-aee6-f970a1d2c9ac" width="330" height="437" />
+
+<br>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/894709ae-f70f-423d-bc2e-1dbfba3b2e7f" width="330" height="437" />
 
 <br>
 
@@ -86,11 +108,7 @@
 
 - GPS탭에서 강아지 위치 정보 확인
 
-<br>
 
-<img src="https://github.com/user-attachments/assets/894709ae-f70f-423d-bc2e-1dbfba3b2e7f" width="330" height="437" />
-
-<br>
 
 - 주변 약국 탭에서 현재 위치에서 가까운 동물 약국 확인
 
